@@ -4,13 +4,44 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://scottmsinger.github.io/atom.xml" rel="self"/>
   <link href="http://scottmsinger.github.io/"/>
-  <updated>2015-01-12T17:05:15-08:00</updated>
+  <updated>2015-01-13T11:29:31-08:00</updated>
   <id>http://scottmsinger.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Scott Singer]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Second Post Futzing With the Rakfile]]></title>
+    <link href="http://scottmsinger.github.io/blog/2015/01/13/second-post-futzing-with-the-rakfile/"/>
+    <updated>2015-01-13T11:23:48-08:00</updated>
+    <id>http://scottmsinger.github.io/blog/2015/01/13/second-post-futzing-with-the-rakfile</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[“Interesting Blogging Approach Here”]]></title>
+    <link href="http://scottmsinger.github.io/blog/2015/01/13/what-does-rake-do-and-what-does-it-add/"/>
+    <updated>2015-01-13T10:29:34-08:00</updated>
+    <id>http://scottmsinger.github.io/blog/2015/01/13/what-does-rake-do-and-what-does-it-add</id>
+    <content type="html"><![CDATA[<h3>Need to learn more about markdown</h3>
+
+<p>unfortunately - that means memorizing a bunch of syntax crap :/</p>
+
+<p>Oh well I’ll have to do that and deal.
+I suppose that it means that I’ll probably use <em>Draft</em> instead of <em>iA Writer</em> on <em>iOS</em> because it will let me push things out with appropriate headers, etc, so that I don’t have to remember a bunch of crap when pushing changes out from mobile<br></p>
+
+<p>markdown cheat sheet
+<br>
+<a href="http://nestacms.com/docs/creating-content/markdown-cheat-sheet">http://nestacms.com/docs/creating-content/markdown-cheat-sheet</a></p>
+
+<p>more in depth
+<br>
+<a href="http://daringfireball.net/projects/markdown/syntax">http://daringfireball.net/projects/markdown/syntax</a></p>
+]]></content>
+  </entry>
   
 </feed>
