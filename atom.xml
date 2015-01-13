@@ -4,14 +4,23 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://scottmsinger.github.io/atom.xml" rel="self"/>
   <link href="http://scottmsinger.github.io/"/>
-  <updated>2015-01-13T11:29:31-08:00</updated>
+  <updated>2015-01-13T11:47:28-08:00</updated>
   <id>http://scottmsinger.github.io/</id>
   <author>
-    <name><![CDATA[Scott Singer]]></name>
+    <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Now to Get Github Up and Running on the iPad]]></title>
+    <link href="http://scottmsinger.github.io/blog/2015/01/13/now-to-get-github-up-and-running-on-the-ipad/"/>
+    <updated>2015-01-13T11:39:36-08:00</updated>
+    <id>http://scottmsinger.github.io/blog/2015/01/13/now-to-get-github-up-and-running-on-the-ipad</id>
+    <content type="html"><![CDATA[<p>So I have the app in iOS that allows me to use github on <em>iOS</em>. The trick will be to deal with all the back and forth and to get  <em>Draft</em> to handle the header crap as an action. This is, in general, a good learning experience.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Second Post Futzing With the Rakfile]]></title>
